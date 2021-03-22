@@ -2,8 +2,8 @@
 # Face Mask Detection
 It detects whether people have wore a mask properly or not.
 
-<img src="mask_detection/GIFs/useless_mask.gif" width="400"/>   <img src="mask_detection/GIFs/useless_mask2.gif" width="400"/>
-<img src="mask_detection/GIFs/no_mask.gif" width="400"/>   <img src="mask_detection/GIFs/thanks_mask.gif" width="400"/>
+<img src="GIFs/useless_mask.gif" width="400"/>   <img src="GIFs/useless_mask2.gif" width="400"/>
+<img src="GIFs/no_mask.gif" width="400"/>   <img src="GIFs/thanks_mask.gif" width="400"/>
 
 ## Requirements
 We used these packages/versions in the development of this project. It is likely that higher versions of the same package will also work. This is not an exhaustive list -- other common python packages (e.g. pillow) are expected and not listed.
